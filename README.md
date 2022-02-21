@@ -18,7 +18,7 @@
 
   > light mode
 
-  ![rxfetch hydra](https://i.postimg.cc/QCDVDYKH/Screenshot-20220216-205938-Termux.png)
+  [![20220221-205008.png](https://i.postimg.cc/13JxgVX9/20220221-205008.png)](https://postimg.cc/ZWBs2R6g)
 
 ## Credits
 
