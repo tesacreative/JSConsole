@@ -14,7 +14,7 @@
 
   > dark mode
 
-  ![rxfetch](https://i.postimg.cc/SRxmSBd1/Screenshot-20220216-203051-Termux.png)
+  [![20220221-205034.png](https://i.postimg.cc/5tBxk2NT/20220221-205034.png)](https://postimg.cc/JyhVsmX5))
 
   > light mode
 
